@@ -1,16 +1,13 @@
-AcademiX
-academiX is a straightforward e-learning platform where logged-in users can create and share lessons as posts, including image uploads. The platform encourages interaction by allowing users to like and comment on posts, fostering a collaborative and engaging learning community.
+# academiX
 
-Key Features
-User authentication (login required)
+academiX is a simple e-learning platform where logged-in users can create and share lessons as posts with images. Users can engage by liking and commenting on posts, fostering an interactive learning community.
 
-Create, edit, and upload lessons with images as posts
+## Features
+- User login and authentication
+- Create and upload lessons with images
+- Like and comment on lessons
+- Clean, intuitive UI for easy content sharing
 
-Like and comment on posts to promote interaction and discussion
-
-Clean and user-friendly interface focused on easy content sharing
-
-Tech Stack
-Backend: Java (Servlets/JSP or Spring Boot)
-
-Frontend: JavaScript, HTML, CSS
+## Tech Stack
+- Backend: Java (Servlets/JSP or Spring Boot)
+- Frontend: JavaScript, HTML, CSS
